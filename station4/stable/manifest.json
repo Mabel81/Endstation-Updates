@@ -1,11 +1,11 @@
 {
     "device_type":  "station4",
     "hardware_revision":  1,
-    "firmware_version":  "0.49",
+    "firmware_version":  "0.50",
     "management_version":  "1.0.0",
     "config_schema":  3,
     "channel":  "stable",
-    "firmware_url":  "https://raw.githubusercontent.com/Mabel81/Endstation-Updates/main/station4/stable/Station_4_v0_49_GitHub.ino.bin",
-    "sha256":  "9ca404d5a4623e34a0a4eb63468b08ed6911570c3290ddb61073f440f0628e18",
-    "size":  1416048
+    "firmware_url":  "https://raw.githubusercontent.com/Mabel81/Endstation-Updates/main/station4/stable/Station_4_v0_50_GitHub.ino.bin",
+    "sha256":  "07d37eae4d8efb54ec54780c2968a0c4c013236bc54044c99138d69910432e80",
+    "size":  1420128
 }
